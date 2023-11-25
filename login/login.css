@@ -1,0 +1,146 @@
+.khung{
+    width: 360px;
+    height: 800px;
+    margin-top: 100px;
+    margin-left: 470px;
+    border: 1px solid #9c9494;
+}
+.banner-login{
+    width: 300px;
+    height: 100px;
+    margin-top: 119px;
+    margin-left: 40px;
+
+}
+
+.text1{
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 36px;
+}
+.text2{
+    margin-top: 10px;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.form{
+    width: 325px;
+    height: 350px;
+    margin-top: 43px;
+    margin-left: 10px;
+    
+}
+.Rectangle1{
+    width: 330px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid #00000066
+}
+.eye{
+    margin-top: -30px;
+    margin-left: 300px;
+}
+.Rectangle2{
+    margin-top: 20px;
+    width: 330px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid #00000066
+}
+.Forgot-Password{
+    width: 125px;
+    height: 21px;
+    margin-top: 12px;
+    margin-left: 117px;
+    
+}
+.text3{
+    color: #0E64D2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+}
+.form-submit{
+    width: 330px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 6px;
+    background-color: #0E64D2;
+    border-radius: 5px;
+    color: #ffffff;
+    padding: 6px 10px;
+}
+.signup{
+    width: 229px;
+    height: 21px;
+    margin-top: 16px;
+    margin-left: 66px;
+    display: flex;
+}
+.text4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+}
+.text5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    margin-left: 8px;
+    color: #2F89FC;
+
+}
+.line-all{
+    display: flex;
+}
+.line1{
+    width: 139px;
+    border: 1px solid #00000080;
+    height: 0px;
+    margin-top: 28px;
+}
+.text6{
+    margin-top: 20px;
+    margin-left: 7px;
+}
+.line2{
+    width: 139px;
+    height: 0px;
+    border: 1px solid #00000080;
+    margin-left: 10px;
+    margin-top: 28px;
+    }
+.login-fb{
+    width: 330px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 6px;
+    background-color: #0E64D2;
+    border-radius: 5px;
+    color: #ffffff;
+    padding: 6px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.login-gg{
+    width: 330px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 6px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    color: #000000;
+    padding: 6px 10px;
+    border: 1px solid #9c9494;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.gg{
+    margin-top: -28px;
+    margin-left: 15px;
+}
