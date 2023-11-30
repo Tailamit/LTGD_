@@ -68,6 +68,7 @@
 .form-submit{
     width: 330px;
     height: 30px;
+    border: #ffffff;
     margin-top: 20px;
     margin-left: 6px;
     background-color: #0E64D2;
@@ -120,6 +121,7 @@
 .login-fb{
     width: 330px;
     height: 30px;
+    border: #ffffff;
     margin-top: 20px;
     margin-left: 6px;
     background-color: #0E64D2;
